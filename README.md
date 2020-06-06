@@ -1,4 +1,4 @@
-# real-world-vue
+# MelloSo
 
 ## Project setup
 ```
